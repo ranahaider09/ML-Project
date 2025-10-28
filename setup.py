@@ -19,8 +19,8 @@ setup(
 
     name="ML-Project",                # The name of your project
     version="1.0.0",                  # The version of your project
-    author="Haider Ali",              # Your name
-    description="end to end ml project",  # Short explanation
+    author="Haider Ali",              
+    description="end to end ml project",  
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt') 
 )
